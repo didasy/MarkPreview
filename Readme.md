@@ -1,6 +1,6 @@
 # Created by Jesus Islam with MIT License
 
-*Dependency : [JQuery](http://jquery.com), [Showdown](https://github.com/coreyti/showdown).*
+*Dependency : [JQuery](http://jquery.com) - Optional, [Showdown](https://github.com/coreyti/showdown).*
 
 ## USAGE EXAMPLE
 
