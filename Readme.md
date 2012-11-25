@@ -47,4 +47,4 @@ element -> a target element for MarkPreview. e.g: '#preview', 'div.preview', etc
 Apply this method after you've done the configuration above.
 
 
-see [here](http://jsbin.com/uterud/9/) for live demo
+see [here](http://jsbin.com/uterud/14) for live demo
